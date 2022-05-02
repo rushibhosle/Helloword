@@ -5,7 +5,7 @@
 # https://aka.ms/yamltrigger:
 - mainpool:
 vmImage: ubuntu-lateststeps:
-- script: echo Hello, world!
+- script: echo sum!
 displayName: 'Run a one-line script'- script: |
 echo Add other tasks to build, test, and deploy your project.
 echo See https://aka.ms/yaml
